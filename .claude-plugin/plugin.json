@@ -1,0 +1,8 @@
+{
+  "name": "olx-api-assistant",
+  "description": "Спеціалізований AI-асистент для інтеграції OLX Partner API v2.0. OAuth, lifecycle оголошень, помилки, архітектура SaaS для ринку нерухомості України.",
+  "author": {
+    "name": "Romassu",
+    "url": "https://github.com/romasse"
+  }
+}
