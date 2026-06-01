@@ -1,4 +1,4 @@
-# OLX Partner API Assistant
+# OLX API Assistant
 
 A Claude Code skill for integrating with OLX Partner API v2.0, focused on the Ukrainian real estate market.
 
