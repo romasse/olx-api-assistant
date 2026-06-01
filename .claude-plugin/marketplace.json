@@ -15,8 +15,10 @@
       },
       "category": "productivity",
       "source": {
-        "source": "github",
-        "repo": "romasse/olx-api-assistant"
+        "source": "git-subdir",
+        "url": "https://github.com/romasse/olx-api-assistant.git",
+        "path": ".",
+        "ref": "main"
       },
       "homepage": "https://github.com/romasse/olx-api-assistant"
     }
